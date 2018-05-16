@@ -1,6 +1,6 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Creative Coding Roma -->
+<!-- SUBTITLE: ..the wiki -->
 
 # Creative Coding Roma: Wiki
 
-![Giphy](/uploads/giphy.gif~c200 "Giphy")
+![Giphy](/uploads/giphy.gif)
