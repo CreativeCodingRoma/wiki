@@ -8,6 +8,11 @@ Per chi non conosce questo formato di creazione e condivisione di documenti: Si 
 
 Quindi, per ora in questa wiki c’è soltanto:
 
-- un gif di un gatto:
-- 
+- una gif di un gatto che si lima le unghie:
+
 ![Giphy Downsized](/uploads/giphy-downsized.gif "Giphy Downsized")
+
+- qualche pagina di prova
+
+## Proposta:
+Durante l'ultima riunione es
