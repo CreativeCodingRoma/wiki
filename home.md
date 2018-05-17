@@ -4,7 +4,7 @@
 # Creative Coding Roma: Wiki
 
 Questa è la potenziale wiki di Creative coding Roma.
-Per chi non conosce questo formato di creazione e condivisione di documenti: Si tratta basicamente di uno strumento collaborativo, dove si crea una struttura di informazione strutturata 
+Per chi non conosce questo formato di creazione e condivisione di documenti: In poche parole si tratta di uno strumento collaborativo, dove si crea una struttura di informazione strutturata. 
 
 Più info [qua](https://it.wikipedia.org/wiki/Wiki) 
 
@@ -21,7 +21,7 @@ Quindi, per ora in questa wiki c’è soltanto:
 
 ## e chi se ne fregggaaaa???
 
-Beh.. durante l'ultima riunione raggionavamo l'importanza di avere una documetazione centralizata. Questo formato mi sembra adatto a tale finalità.
+Beh.. durante l'ultima riunione ragionavamo sull'importanza di avere una documentazione centralizzata. Questo formato mi sembra adatto a tale finalità.
 in questa wiki potremmo mettere:
 
 - informazione generale del gruppo
@@ -32,11 +32,11 @@ in questa wiki potremmo mettere:
 
 Insomma, possiamo fare come ci pare. 
 
-Il bello di creare il tutto in un formatto strutturato come questo è che ci può servire come base per creare un sito publico nel futuro. 
+Il bello di creare il tutto in un formatto strutturato come questo è che ci può servire come base per creare un sito pubblico nel futuro. 
 
 ## e mo?
 
-Io direi che durante la prossima riunione possiamo dedicare qualche minuto a dedidere come organizzare la wiki. E forse spieghiamo come si fa ad aggiungere o modificare contenuto (è molto facile comunque)
+Io direi che durante la prossima riunione possiamo dedicare qualche minuto a decidere come organizzare la wiki. E forse spieghiamo come si fa ad aggiungere o modificare contenuto (è molto facile comunque)
 
 Se qualcuno vuole mettere le mani subito mi può chiedere acceso ( sono Bruno o @Daylankifky )
 
@@ -51,7 +51,7 @@ Al di la della bellezza di questo sistema, risulta in una "Database" ben organiz
 Poi, permette il controllo di accesi in locale e con diversi provider esterni. Per ora penso di attivare "Github", "Google" e "Slack".
 
 Quindi, bravi wiki.js!
-Devo dire che è un progetto giovane, e in alcuni piccoli aspetti si nota che manca maturazione, ma in generale è molto stabile.
+Anche se è un progetto giovane, e in alcuni piccoli aspetti si nota che manca maturazione, in generale è molto stabile.
 
 
 
