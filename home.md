@@ -53,6 +53,9 @@ Poi, permette il controllo di accesi in locale e con diversi provider esterni. P
 Quindi, bravi wiki.js!
 Anche se è un progetto giovane, e in alcuni piccoli aspetti si nota che manca maturazione, in generale è molto stabile.
 
+### Ma allora c'è una repository remota da qualche parte..
+	
+		Ho creato un'aggrupazione su github [Creative Coding Roma](https://github.com/CreativeCodingRoma) mandatemi i vostri account personali e vi aggiungo
 
 ## ma perche "weareteapots.com"???
 
