@@ -54,5 +54,7 @@ Quindi, bravi wiki.js!
 Anche se è un progetto giovane, e in alcuni piccoli aspetti si nota che manca maturazione, in generale è molto stabile.
 
 
+## ma perche "weareteapots.com"???
 
+semplicemente avevo quel dominio registrato. Noi dovremmo trovare un nome, registrare un dominio e possiamo farlo puntare qua.
 
